@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rohnelt-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rohnelt.dev/
+Rohnelt-dev is the professional brand of Felipe Rohnelt, a software engineer specializing in end‑to‑end systems for industry, logistics and digital products. Based in Goiás, Brazil, the portfolio showcases over twenty‑three production systems, including public services and private client deployments, integrating ERP, databases, IoT hardware and cloud services. The site presents methodology, results, and a contact channel for consulting projects, reflecting a focus on operational excellence and measurable outcomes.
+
+**Areas:** Software Engineering · Operations · Consulting · Brazil · Logistics · Industry
+
+## rohnelt-dev on APIs.io
+
+Everything profiled for rohnelt-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rohnelt-dev/](https://apis.io/providers/rohnelt-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Conta Clara API](https://apis.io/apis/rohnelt-dev/conta-clara-api/) — Cálculos informativos brasileiros de 2026. Free tier 500 calls/day per IP.
+- [CSV Repair free sample API](https://apis.io/apis/rohnelt-dev/csv-repair-free-sample-api/) — 20 data lines processed in memory without storage. Free tier.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rohnelt Dev Agentic Access](https://apis.io/agentic-access/rohnelt-dev/rohnelt-dev-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [rohnelt-dev API Rules](https://apis.io/rules/rohnelt-dev/rohnelt-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rohnelt Dev Authentication](https://apis.io/security/rohnelt-dev/rohnelt-dev-authentication/)
+- [Rohnelt Dev Domain Security](https://apis.io/security/rohnelt-dev/rohnelt-dev-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Rohnelt Dev Scopes](https://apis.io/scopes/rohnelt-dev/rohnelt-dev-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rohnelt Dev Plans Pricing](https://apis.io/plans/rohnelt-dev/rohnelt-dev-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Rohnelt Dev Rate Limits](https://apis.io/rate-limits/rohnelt-dev/rohnelt-dev-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rohnelt.dev/)
+- [API reference](https://api.rohnelt.dev/docs)
+- [Support](https://rohnelt.dev/#contato)
+- [GitHub](https://github.com/phillypmack)
+
+## API Evangelist rating
+
+**Kin Score 23.3** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 18.9 |
+
+**Agent readiness 19.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rohnelt-dev/](https://apis.io/providers/rohnelt-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for rohnelt-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rohnelt-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
